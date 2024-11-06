@@ -1,0 +1,154 @@
+[
+    {
+        "id" : 1,
+        "name" : "book store",
+        "description" : "Welcome to the Wrap-Up, your summary of the day's top news.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1730804539~exp=1730808139~hmac=47ecfb889808765153e47347acf832dc5e817d193129e1377c3f35427aabb88a&w=900"
+    },
+    {
+        "id" : 2,
+        "name" : "book store",
+        "description" : "Welcome to the Wrap-Up, your summary of the day's top news.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1730804539~exp=1730808139~hmac=47ecfb889808765153e47347acf832dc5e817d193129e1377c3f35427aabb88a&w=900"
+    },
+    {
+        "id" : 3,
+        "name" : "book store",
+        "description" : "Welcome to the Wrap-Up, your summary of the day's top news.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1730804539~exp=1730808139~hmac=47ecfb889808765153e47347acf832dc5e817d193129e1377c3f35427aabb88a&w=900"
+    },
+    {
+        "id" : 4,
+        "name" : "book store",
+        "description" : "Welcome to the Wrap-Up, your summary of the day's top news.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1730804539~exp=1730808139~hmac=47ecfb889808765153e47347acf832dc5e817d193129e1377c3f35427aabb88a&w=900"
+    },
+    {
+        "id" : 5,
+        "name" : "book store",
+        "description" : "Welcome to the Wrap-Up, your summary of the day's top news.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1730804539~exp=1730808139~hmac=47ecfb889808765153e47347acf832dc5e817d193129e1377c3f35427aabb88a&w=900"
+    },
+    {
+        "id" : 6,
+        "name" : "book store",
+        "description" : "Welcome to the Wrap-Up, your summary of the day's top news.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1730804539~exp=1730808139~hmac=47ecfb889808765153e47347acf832dc5e817d193129e1377c3f35427aabb88a&w=900"
+    },
+    {
+        "id" : 7,
+        "name" : "book store",
+        "description" : "Welcome to the Wrap-Up, your summary of the day's top news.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1730804539~exp=1730808139~hmac=47ecfb889808765153e47347acf832dc5e817d193129e1377c3f35427aabb88a&w=900"
+    },
+    {
+        "id" : 8,
+        "name" : "book store",
+        "description" : "Welcome to the Wrap-Up, your summary of the day's top news.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1730804539~exp=1730808139~hmac=47ecfb889808765153e47347acf832dc5e817d193129e1377c3f35427aabb88a&w=900"
+    },
+    {
+        "id" : 9,
+        "name" : "book store",
+        "description" : "Welcome to the Wrap-Up, your summary of the day's top news.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1730804539~exp=1730808139~hmac=47ecfb889808765153e47347acf832dc5e817d193129e1377c3f35427aabb88a&w=900"
+    },
+    {
+        "id" : 10,
+        "name" : "book store",
+        "description" : "Welcome to the Wrap-Up, your summary of the day's top news.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1730804539~exp=1730808139~hmac=47ecfb889808765153e47347acf832dc5e817d193129e1377c3f35427aabb88a&w=900"
+    },
+    {
+        "id" : 11,
+        "name" : "book store",
+        "description" : "Welcome to the Wrap-Up, your summary of the day's top news.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1730804539~exp=1730808139~hmac=47ecfb889808765153e47347acf832dc5e817d193129e1377c3f35427aabb88a&w=900"
+    },
+    {
+        "id" : 12,
+        "name" : "book store",
+        "description" : "Welcome to the Wrap-Up, your summary of the day's top news.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1730804539~exp=1730808139~hmac=47ecfb889808765153e47347acf832dc5e817d193129e1377c3f35427aabb88a&w=900"
+    },
+    {
+        "id" : 13,
+        "name" : "book store",
+        "description" : "Welcome to the Wrap-Up, your summary of the day's top news.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1730804539~exp=1730808139~hmac=47ecfb889808765153e47347acf832dc5e817d193129e1377c3f35427aabb88a&w=900"
+    },
+    {
+        "id" : 14,
+        "name" : "book store",
+        "description" : "Welcome to the Wrap-Up, your summary of the day's top news.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1730804539~exp=1730808139~hmac=47ecfb889808765153e47347acf832dc5e817d193129e1377c3f35427aabb88a&w=900"
+    },
+    {
+        "id" : 15,
+        "name" : "book store",
+        "description" : "Welcome to the Wrap-Up, your summary of the day's top news.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1730804539~exp=1730808139~hmac=47ecfb889808765153e47347acf832dc5e817d193129e1377c3f35427aabb88a&w=900"
+    },
+    {
+        "id" : 16,
+        "name" : "book store",
+        "description" : "Welcome to the Wrap-Up, your summary of the day's top news.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1730804539~exp=1730808139~hmac=47ecfb889808765153e47347acf832dc5e817d193129e1377c3f35427aabb88a&w=900"
+    },
+    {
+        "id" : 17,
+        "name" : "book store",
+        "description" : "Welcome to the Wrap-Up, your summary of the day's top news.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1730804539~exp=1730808139~hmac=47ecfb889808765153e47347acf832dc5e817d193129e1377c3f35427aabb88a&w=900"
+    },
+    {
+        "id" : 18,
+        "name" : "book store",
+        "description" : "Welcome to the Wrap-Up, your summary of the day's top news.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1730804539~exp=1730808139~hmac=47ecfb889808765153e47347acf832dc5e817d193129e1377c3f35427aabb88a&w=900"
+    },
+    {
+        "id" : 19,
+        "name" : "book store",
+        "description" : "Welcome to the Wrap-Up, your summary of the day's top news.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1730804539~exp=1730808139~hmac=47ecfb889808765153e47347acf832dc5e817d193129e1377c3f35427aabb88a&w=900"
+    }
+]
